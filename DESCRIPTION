@@ -1,0 +1,15 @@
+Package: geotoolsforrse
+Title: Recension of tools for geospatial data analysis by Research Software Engineers
+Version: 0.0.0.9000
+Authors@R: c(
+  person("Nicolas", "Roelandt", email = "nicolas.roelandt@univ-eiffel.fr", role = c("aut", "cre"), comment = c(ORCID = "0000-0001-9698-4275")),
+  person(given = "Univ. Gustave Eiffel", role = "cph")
+ )
+Description: Contains the article source
+License: {{ License }}
+LazyData: true
+Encoding: UTF-8
+VignetteBuilder: knitr
+Suggests: 
+    knitr,
+    rmarkdown
