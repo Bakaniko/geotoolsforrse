@@ -31,7 +31,7 @@ usethis::use_readme_md()
 usethis::use_git()
 
 # Vignette
-usethis::use_vignette("article_FOSS4G2021")
+usethis::use_vignette("GeoToolsForRSE")
 devtools::build_vignettes()
 
 # pkgdown and GH actions
